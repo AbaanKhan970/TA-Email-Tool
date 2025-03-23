@@ -1,4 +1,4 @@
-# 📬 Gmail Email Clustering Tool (AI-Powered for TAs)
+# 📬 Gmail Clustering Tool (AI-Powered for TAs)
 
 This project is a **smart, browser-based tool** that fetches emails from your Gmail inbox, analyzes the content using machine learning, and clusters them into similar groups with keyword summaries and sender information.
 
